@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/jdehning/repositories",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Jonas Dehning",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "jonas.dehning@ds.mpg.de",
+  "friendly_name": "Dask Launcher",
+  "github_user": "jdehning",
+  "license": "MIT",
+  "package_name": "dask_launcher",
+  "project_name": "dask-launcher",
+  "version": "0.0.1"
+}
